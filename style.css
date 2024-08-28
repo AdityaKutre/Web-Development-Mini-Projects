@@ -1,0 +1,22 @@
+/* .container{
+    border: 1px solid black;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+} */
+
+.container {
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: grey; /* Initial color inside the border */
+}
+body {
+    margin: 0;
+}
+h1{
+    text-align: center;
+}
